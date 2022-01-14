@@ -1,0 +1,13 @@
+@use "../../global" as g;
+
+/*!
+page > top > top (common)
+------------------------------
+*/
+.top-section-text{
+    margin-top: 8px;
+
+    a{
+        color: var(--color-link);
+    }
+}
